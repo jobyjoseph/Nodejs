@@ -5,8 +5,9 @@ Essentially, a developer types “docker-compose up” and everything is set and
 
 [Source](https://medium.com/the-node-js-collection/lessons-learned-one-year-with-node-js-and-the-enterprise-49f1adabf14a)
 
----
-
 ## TypeScript for solid code
 TypeScript plugins will help to verify typescript code during development.
 [Source](https://medium.com/the-node-js-collection/lessons-learned-one-year-with-node-js-and-the-enterprise-49f1adabf14a)
+
+## Synk for security
+[synk](https://snyk.io/) npm can find and help to fix vulnerabilities in dependencies
