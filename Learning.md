@@ -28,4 +28,4 @@ console.log(global.a); // undefined
 The reason, is the variable is not automatically attached to `global` object.
 
 ## Modules in Nodejs
-Modules in Nodejs prevent automatic attachement of variables or functions to global scope. This reduces errors. In Nodejs, each file is a module. Variables or functions defined in a file is visible only within the module by default.
+Modules in Nodejs prevent automatic attachment of variables or functions to global scope. This reduces errors. In Nodejs, each file is a module. Variables or functions defined in a file is visible only within the module by default.
